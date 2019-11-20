@@ -1,0 +1,16 @@
+{
+  "name": "desafio_codenation",
+  "version": "1.0.0",
+  "description": "desafio codenation, a esperanca eh a ultima que morre",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amanda Souza Macedo Bacelli",
+  "license": "ISC",
+  "dependencies": {
+    "js-sha1": "^0.6.0",
+    "request": "^2.88.0",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
